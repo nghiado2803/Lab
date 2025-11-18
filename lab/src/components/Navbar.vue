@@ -40,6 +40,14 @@
         </li>
       </ul>
     </div>
+        <div class="sidebar-section">
+      <h6 class="text-secondary fw-bolder mb-2">LAB 4</h6>
+      <ul class="nav flex-column">
+        <li class="nav-item">
+          <RouterLink class="nav-link text-dark" to="/bai1lab4">Bài 1</RouterLink>
+        </li>
+      </ul>
+    </div>
 
   </div>
 </template>
