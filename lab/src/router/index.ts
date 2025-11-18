@@ -11,6 +11,8 @@ import Bai2Lab3 from '../lab3/bai2lab3.vue';
 import Bai3Lab3 from '../lab3/bai3lab3.vue'; 
 import Bai4Lab3 from '../lab3/bai4lab3.vue';
 
+//Lab4
+import Bai1Lab4 from '../lab4/bai1lab4.vue';
 
 const routes = [
   { 
@@ -52,6 +54,11 @@ const routes = [
     path: '/bai4lab3', 
     name: 'Bai4Lab3', 
     component: Bai4Lab3 
+  },
+            { 
+    path: '/bai1lab4', 
+    name: 'Bai1Lab4', 
+    component: Bai1Lab4 
   },
   // Đường dẫn mặc định khi truy cập root URL (/)
   { 
