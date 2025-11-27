@@ -91,8 +91,8 @@
     border: 1px solid #dee2e6;
 }
 .card label.form-label {
-  text-align: left;     /* căn trái */
-  margin-left: 0;       /* bỏ khoảng cách */
-  display: block;       /* đảm bảo label là block */
+  text-align: left;    
+  margin-left: 0;      
+  display: block;       
 }
 </style>
