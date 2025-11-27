@@ -148,7 +148,6 @@ export default {
   margin: auto;
 }
 
-/* Các label sát trái */
 form label {
   text-align: left;    
   margin-left: 0;      
